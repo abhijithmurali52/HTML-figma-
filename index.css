@@ -1,0 +1,93 @@
+body {
+    padding-top: 3rem; 
+    padding-bottom: 3rem;
+    background-color: blue;
+    
+} 
+.div1-style {
+    padding-top: 5rem; 
+    padding-bottom: 0rem; 
+    margin: 0;
+    color: white;
+text-align: left;
+
+} 
+nav.navbar {
+    margin: 0 15rem; 
+    background-color: blue;
+    
+}
+.nav-style{
+    color: white;
+}
+.nav-style2{
+    margin-right: 1.5rem;
+}
+.button-style{
+    border-radius: 100px 100px 100px 100px;
+    height: 2.5rem;
+    width: 7rem;
+}
+.box {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5rem 10rem;
+    align-items: center;
+}
+
+.input-style{
+    border-radius: 10rem 10rem 10rem 10rem;
+    width: 18rem;
+    margin-left: 10px;
+}
+.radio-style{
+    margin-left:18px;
+    
+}
+.button-style2{
+    border-radius: 10rem 10rem 10rem 10rem;
+    width: 18rem;
+    margin-left: 10px;
+}
+.text-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3-style{
+    background-color: white;
+    height: 25rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem; 
+    width: 26rem;
+    margin:0 12rem 25rem 0;
+}
+.form-style{
+    margin:0  8rem 0 3rem
+}
+.separator {
+    text-align: center;
+    position: relative;
+    margin:2px 0 0 3rem;
+}
+
+.line {
+    border-top: 1px solid #000; 
+    display: inline-block;
+    width: 110px; 
+    position: absolute;
+    top: 50%; 
+}
+
+.separator span:first-child {
+    left: -35px;
+}
+
+.separator span:last-child {
+    right: -35px;
+}
+.p-style{
+  color: gray;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 1rem;
+  margin-left: 14px;
+}
